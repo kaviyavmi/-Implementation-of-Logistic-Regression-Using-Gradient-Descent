@@ -26,7 +26,7 @@ Developed by:V M KAVIYA
 RegisterNumber: 212224040154 
 */
 ```
-```
+```PYTHON
 
 import pandas as pd
 import numpy as np
